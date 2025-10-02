@@ -1,6 +1,6 @@
 streamlit
 pandas
 yfinance
-yfinance
+plotly
 datetime
 timedelta
